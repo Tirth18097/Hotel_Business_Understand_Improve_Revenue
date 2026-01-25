@@ -55,7 +55,7 @@ All KPIs are calculated using **DAX measures** to ensure accurate aggregation ac
 
 ##  Dashboard Preview
 
-![Hotel Revenue & Guest Insights Dashboard](Dashboard 2.png)
+![Hotel Revenue & Guest Insights Dashboard](Dashboard.png)
 
 ---
 
