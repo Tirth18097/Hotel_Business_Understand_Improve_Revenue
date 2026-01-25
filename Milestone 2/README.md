@@ -26,9 +26,6 @@ The dashboard is built using **Power BI** and extends **Milestone 1** with advan
 ## KPI measures
 Total Revenue, Occupancy %, ADR, and RevPAR are implemented using DAX and are used across multiple visuals instead of standalone KPI cards to maintain a compact and insight-focused dashboard layout.
 
-
-All KPIs are calculated using **DAX measures** to ensure accurate aggregation across filters.
-
 ---
 
 ## Analysis Performed
@@ -70,12 +67,12 @@ All KPIs are calculated using **DAX measures** to ensure accurate aggregation ac
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 This dashboard provides actionable insights into hotel performance and customer behavior, helping management make data-driven decisions related to pricing, marketing, and customer retention.
 
 ---
 
-## 📌 Author
+## Author
 **Tirth Madane**  
 Infosys Springboard – Data Visualization Internship
 
