@@ -7,7 +7,8 @@ This milestone extends previous work by adding **forecasting, KPIs, and trend-ba
 ---
 
 ## Dashboard Preview
-![Milestone 3 Dashboard](Dashboard.png)
+![Milestone 3 Dashboard](Screenshot/Dashboard.png)
+
 
 ---
 
