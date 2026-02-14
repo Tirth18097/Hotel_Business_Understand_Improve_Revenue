@@ -12,7 +12,7 @@ Milestone 4 focuses on transforming historical booking and revenue data into **a
 
 The Revenue Strategy Dashboard provides a consolidated business view of hotel performance, pricing effectiveness, and revenue optimization indicators.
 
-![Revenue Strategy Dashboard](screenshots/Revenue_Strategy_dashboard.png)
+![Revenue Strategy Dashboard](Screenshot/dashboard.png)
 
 ---
 
